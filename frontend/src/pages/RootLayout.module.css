@@ -1,0 +1,9 @@
+.shrunkMain {
+  left: 200px;
+  width: calc(100% - 200px);
+}
+
+.expandedMain {
+  left: 100px;
+  width: calc(100% - 100px);
+}

@@ -1,0 +1,10 @@
+.topMenuBar {
+    top: 0;
+  width: 100%;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  background: rgb(130, 255, 130);
+}
